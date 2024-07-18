@@ -58,14 +58,6 @@
 </p>
 <br>
 
-
-### Proyectos Destacados
-<!-- Aquí puedes añadir una lista de tus proyectos más importantes con enlaces a los repositorios. -->
-
-1. [Proyecto 1](https://github.com/tuusuario/proyecto1) - Descripción breve del proyecto.
-2. [Proyecto 2](https://github.com/tuusuario/proyecto2) - Descripción breve del proyecto.
-3. [Proyecto 3](https://github.com/tuusuario/proyecto3) - Descripción breve del proyecto.
-
 ### ⚙️ &nbsp;Estadisticas de GitHub
 
 <p align="center">
