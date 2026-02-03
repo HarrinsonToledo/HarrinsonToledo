@@ -1,6 +1,6 @@
 <h1 align="center">!Hola¡ Soy Harrinson Toledo Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+de+Sistemas;Programador+Junior;Desarrollador+Full+Stack"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingenierio+de+Sistemas;Programador+Semi-senior;Desarrollador+Full+Stack"></a>
 </p>
 
 
@@ -12,11 +12,10 @@
 
 <br><br>
 
-- :school: Soy un Programador `Junior` de la [Universidad Francisco José de Caldas](https://www.udistrital.edu.co/inicio).
+- :school: Soy un Programador `Semi-senior` graduado de la [Universidad Francisco José de Caldas](https://www.udistrital.edu.co/inicio).
 - :technologist: Me gusta usar la tecnología para la resolucíon de `Problemas`.
 - :computer: Me reto al programar para mejorar en `Código Limpio`, `Patrones de Diseño`, `Eficiencia`, `Versatilidad`, `Buenas Practicas`.
 - :student: Actualmente estoy aprendiendo `Inteligencia Artificial` y `Arquitectura de Software`.
-- :thinking: Actualmente estoy en busqueda de una `Oportunidad de Trabajo`.
 <br>
 
 ### Frameworks y Tecnologías
