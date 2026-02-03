@@ -12,15 +12,17 @@
 
 <br><br>
 
-- :school: Soy un Programador `Semi-senior` graduado de la [Universidad Francisco José de Caldas](https://www.udistrital.edu.co/inicio).
-- :technologist: Me gusta usar la tecnología para la resolucíon de `Problemas`.
-- :computer: Me reto al programar para mejorar en `Código Limpio`, `Patrones de Diseño`, `Eficiencia`, `Versatilidad`, `Buenas Practicas`.
-- :student: Actualmente estoy aprendiendo `Inteligencia Artificial` y `Arquitectura de Software`.
+- :school: Soy un desarrollador `Semi-senior` con enfoque en entregar valor en producción, cuidando la calidad, el rendimiento y la experiencia de usuario. Profesional en `Ingeniería de Sistemas` graduado de la [Universidad Francisco José de Caldas](https://www.udistrital.edu.co/inicio).
+- :technologist: Me enfoco en `calidad`: pruebas cuando son necesarias, `manejo de errores`, `métricas básicas`, y `optimización de rendimiento` (carga, accesibilidad, y UX)..
+- :computer: Aplico `buenas prácticas`, `(código limpio, revisiones de código, componentes reutilizables, SOLID, patrones cuando aportan)` y busco mantener un `código fácil de mantener y escalar`.
+- :student: Actualmente sigo fortaleciendo `Inteligencia Artificial` y `Arquitectura de Software` para diseñar soluciones más robustas y con visión de largo plazo..
 <br>
 
 ### Frameworks y Tecnologías
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48"/>
 - <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="48" height="48"/> 
+- <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Angular" width="48" height="48"/>
+- <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="Angular" width="48" height="48"/> 
 - <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/> 
 - <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48" height="48"/>
 - <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="48" height="48"/> 
